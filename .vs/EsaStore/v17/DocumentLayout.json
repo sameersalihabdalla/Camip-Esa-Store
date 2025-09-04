@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExtraPOS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\ExtraPOS.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\frminvoices.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\ExtraPOS.vbproj|solutionrelative:esastore\\frminvoices.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\my project\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\my project\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\repuserssales.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\repuserssales.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\frmcustomcolors.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\frmcustomcolors.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\frmchangepassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\frmchangepassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\frmbarcode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\frmbarcode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\frmbackupdb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\frmbackupdb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\frmstock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\frmstock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\frmstockqadded.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\frmstockqadded.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\frmtraceusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\frmtraceusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|solutionrelative:esastore\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\EsaStore.vbproj|c:\\users\\programmer\\desktop\\esastore\\esastore\\esastore\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|eda661ea-dc61-4750-b3a5-f6e9c74060f5"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmInvoices.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmInvoices.Designer.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmInvoices.Designer.vb",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmInvoices.Designer.vb",
+              "RelativeToolTip": "EsaStore\\FrmInvoices.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-21T06:58:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\My Project\\app.manifest",
+              "RelativeDocumentMoniker": "EsaStore\\My Project\\app.manifest",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\My Project\\app.manifest",
+              "RelativeToolTip": "EsaStore\\My Project\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-01-21T06:58:02.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtraPOS",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\ExtraPOS.vbproj",
+              "RelativeDocumentMoniker": "EsaStore\\ExtraPOS.vbproj",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\ExtraPOS.vbproj",
+              "RelativeToolTip": "EsaStore\\ExtraPOS.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-21T06:56:37.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepUsersSales.rpt",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\RepUsersSales.rpt",
+              "RelativeDocumentMoniker": "EsaStore\\RepUsersSales.rpt",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\RepUsersSales.rpt",
+              "RelativeToolTip": "EsaStore\\RepUsersSales.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-21T06:55:38.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCustomColors.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmCustomColors.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmCustomColors.vb",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmCustomColors.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmCustomColors.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-21T06:55:26.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmChangePassword.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmChangePassword.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmChangePassword.vb",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmChangePassword.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmChangePassword.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-21T06:55:24.019Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBarcode.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmBarcode.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmBarcode.vb",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmBarcode.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmBarcode.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-21T06:55:22.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBackupDb.vb [Design - Arabic]",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmBackupDb.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmBackupDb.vb",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmBackupDb.vb [Design - Arabic]",
+              "RelativeToolTip": "EsaStore\\FrmBackupDb.vb [Design - Arabic]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-21T06:55:21.469Z",
+              "EditorCaption": " [Design - Arabic]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmStock.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmStock.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmStock.vb",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmStock.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmStock.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-21T06:55:18.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmStockQAdded.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmStockQAdded.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmStockQAdded.vb",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmStockQAdded.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmStockQAdded.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-21T06:55:17.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmTraceUsers.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmTraceUsers.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmTraceUsers.vb",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmTraceUsers.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmTraceUsers.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-21T06:55:16.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmLogin.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmLogin.vb",
+              "ToolTip": "C:\\Users\\Programmer\\Desktop\\EsaStore\\EsaStore\\EsaStore\\FrmLogin.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-21T06:55:03.485Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
