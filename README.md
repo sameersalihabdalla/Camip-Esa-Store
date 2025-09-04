@@ -19,21 +19,21 @@
 - واجهة مكتبية مناسبة للأجهزة المحلية
 ## 🖼️ لقطات من النظام
 
-| شاشة 1 | شاشة 2 | شاشة 3 |
+| شاشة الدخول | إدارة المستخدمين | تغيير كلمة المرور |
 |--------|--------|--------|
-| ![](screenshot/a(1).png) | ![](screenshot/a(2).png) | ![](screenshot/a(3).png) |
+| ![](screenshot/login.png) | ![](screenshot/users_management.png)| ![](screenshot/change_password.png) |
 
 | شاشة 4 | شاشة 5 | شاشة 6 |
 |--------|--------|--------|
-| ![](screenshot/a(4).png) | ![](screenshot/a(5).png) | ![](screenshot/a(6).png) |
+| ![](screenshot/pos.png) | ![](screenshot/collection.png) |![](screenshot/reports_menu.png) |
 
 | شاشة 7 | شاشة 8 | شاشة 9 |
 |--------|--------|--------|
-| ![](screenshot/a(7).png) | ![](screenshot/a(8).png) | ![](screenshot/a(9).png) |
+|![](screenshot/store_settings.png)| ![](screenshot/Sales.png) | ![](screenshot/printers.png) |
 
 | شاشة 10 | شاشة 11 | شاشة 12 |
 |---------|---------|---------|
-| ![](screenshot/a(10).png) | ![](screenshot/a(11).png) | ![](screenshot/a(12).png) |
+| ![](screenshot/main.png) | ![](screenshot/operations_menu.png) | ![](screenshot/a(12).png) |
 
 | شاشة 13 | شاشة 14 | شاشة 15 |
 |---------|---------|---------|
@@ -54,8 +54,11 @@
 اسم المستخدم: admin
 كلمة المرور: Admin
 
-##In English
-Camip ESA Store is a desktop Point of Sale system built with Visual Basic .NET, powered by a MySQL database, and uses Crystal Reports for generating detailed financial and inventory reports. It’s tailored for local Sudanese stores with a simple interface and reliable operations.
+
+**In English**
+ 
+ 
+ **Camip ESA Store is a desktop Point of Sale system built with Visual Basic .NET, powered by a MySQL database, and uses Crystal Reports for generating detailed financial and inventory reports. It’s tailored for local Sudanese stores with a simple interface and reliable operations.
 
 ⚙️ Features
 Product and inventory management
