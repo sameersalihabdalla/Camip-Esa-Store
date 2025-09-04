@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshot/logo.png" alt="Camip ESA Store Logo" width="150"/>
+  <img src="screenshot/logo.png" alt="Camip ESA Store Logo" width="200"/>
 </p>
 
 <h1 align="center">🛒 Camip ESA Store | نظام نقاط البيع</h1>
@@ -17,6 +17,29 @@
 - تقارير مالية ومخزنية باستخدام Crystal Reports
 - دعم المستخدمين والصلاحيات
 - واجهة مكتبية مناسبة للأجهزة المحلية
+## 🖼️ لقطات من النظام
+
+| شاشة 1 | شاشة 2 | شاشة 3 |
+|--------|--------|--------|
+| ![](screenshot/a(1).png) | ![](screenshot/a(2).png) | ![](screenshot/a(3).png) |
+
+| شاشة 4 | شاشة 5 | شاشة 6 |
+|--------|--------|--------|
+| ![](screenshot/a(4).png) | ![](screenshot/a(5).png) | ![](screenshot/a(6).png) |
+
+| شاشة 7 | شاشة 8 | شاشة 9 |
+|--------|--------|--------|
+| ![](screenshot/a(7).png) | ![](screenshot/a(8).png) | ![](screenshot/a(9).png) |
+
+| شاشة 10 | شاشة 11 | شاشة 12 |
+|---------|---------|---------|
+| ![](screenshot/a(10).png) | ![](screenshot/a(11).png) | ![](screenshot/a(12).png) |
+
+| شاشة 13 | شاشة 14 | شاشة 15 |
+|---------|---------|---------|
+| ![](screenshot/a(13).png) | ![](screenshot/a(14).png) | ![](screenshot/a(15).png) |
+
+
 
 ### 🧪 بيئة التطوير
 - اللغة: Visual Basic .NET  
@@ -24,27 +47,7 @@
 - التقارير: Crystal Reports  
 - نظام التشغيل: Windows
 
-## 🖼️ لقطات من النظام
 
-| شاشة 1 | شاشة 2 | شاشة 3 |
-|--------|--------|--------|
-| ![](screenshot/Screenshot_2025-09-04_10-01-01.png) | ![](screenshot/Screenshot_2025-09-04_10-02-15.png) | ![](screenshot/Screenshot_2025-09-04_10-03-22.png) |
-
-| شاشة 4 | شاشة 5 | شاشة 6 |
-|--------|--------|--------|
-| ![](screenshot/Screenshot_2025-09-04_10-04-30.png) | ![](screenshot/Screenshot_2025-09-04_10-05-45.png) | ![](screenshot/Screenshot_2025-09-04_10-06-58.png) |
-
-| شاشة 7 | شاشة 8 | شاشة 9 |
-|--------|--------|--------|
-| ![](screenshot/Screenshot_2025-09-04_10-08-10.png) | ![](screenshot/Screenshot_2025-09-04_10-09-25.png) | ![](screenshot/Screenshot_2025-09-04_10-10-40.png) |
-
-| شاشة 10 | شاشة 11 | شاشة 12 |
-|---------|---------|---------|
-| ![](screenshot/Screenshot_2025-09-04_10-11-55.png) | ![](screenshot/Screenshot_2025-09-04_10-13-05.png) | ![](screenshot/Screenshot_2025-09-04_10-14-20.png) |
-
-| شاشة 13 | شاشة 14 |
-|---------|---------|
-| ![](screenshot/Screenshot_2025-09-04_10-15-35.png) | ![](screenshot/Screenshot_2025-09-04_10-16-50.png) |
 
 
 ### 🔐 بيانات الدخول الافتراضية
@@ -76,8 +79,4 @@ Reporting: Crystal Reports
 
 OS: Windows
 
-
-## 🔎 اختبار صورة واحدة
-
-![شاشة 1](screenshot/Screenshot_2025-09-04_10-01-01.png)
 
